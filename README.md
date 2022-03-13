@@ -1,2 +1,2 @@
-# c-learning
+# c++ learning
 my C++ examples
